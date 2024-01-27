@@ -11,8 +11,8 @@ Amateur project to test my developing skills
 **Web**
 
 <img src=".github/beeproject.png" width="908" height="auto">
-<p float="left">
   <img src=".github/tablet2.png" width="900 height="auto">
+  <p float="left" align="center">
 <img src=".github/bee1.png" width="273" height="auto">
 <img src=".github/bee2.png" width="273" height="auto">
 </p>
